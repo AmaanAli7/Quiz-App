@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the holy book of Islam?",
+    "options": ["Bible", "Torah", "Qur'an", "Vedas"],
+    "answer": "Qur'an"
+  },
+  {
+    "question": "Who is the last Prophet in Islam?",
+    "options": ["Prophet Musa (Moses)", "Prophet Isa (Jesus)", "Prophet Ibrahim (Abraham)", "Prophet Muhammad ﷺ"],
+    "answer": "Prophet Muhammad ﷺ"
+  },
+  {
+    "question": "What does the word 'Islam' mean?",
+    "options": ["Peace", "Submission", "Faith", "Prayer"],
+    "answer": "Submission"
+  },
+  {
+    "question": "How many daily obligatory prayers (Salah) are there in Islam?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "answer": "Five"
+  },
+  {
+    "question": "Which city is the holiest city in Islam?",
+    "options": ["Madina", "Jerusalem", "Mecca", "Taif"],
+    "answer": "Mecca"
+  },
+  {
+    "question": "In which month do Muslims fast?",
+    "options": ["Muharram", "Rajab", "Ramadan", "Dhul Hijjah"],
+    "answer": "Ramadan"
+  },
+  {
+    "question": "What is Zakat?",
+    "options": ["Prayer", "Pilgrimage", "Charity", "Fasting"],
+    "answer": "Charity"
+  },
+  {
+    "question": "Which angel delivered revelation to Prophet Muhammad ﷺ?",
+    "options": ["Israfeel", "Mikail", "Jibreel (Gabriel)", "Malik"],
+    "answer": "Jibreel (Gabriel)"
+  },
+  {
+    "question": "What is the direction Muslims face during prayer?",
+    "options": ["East", "West", "Kaaba in Mecca", "Masjid Al-Aqsa"],
+    "answer": "Kaaba in Mecca"
+  },
+  {
+    "question": "What is Hajj?",
+    "options": ["Daily prayer", "Charity", "Pilgrimage to Mecca", "Fasting"],
+    "answer": "Pilgrimage to Mecca"
+  },
+  {
+    "question": "What is the first pillar of Islam?",
+    "options": ["Salah", "Zakat", "Shahada", "Hajj"],
+    "answer": "Shahada"
+  },
+  {
+    "question": "How many Surahs are there in the Qur'an?",
+    "options": ["112", "113", "114", "115"],
+    "answer": "114"
+  },
+  {
+    "question": "Which Surah is called the heart of the Qur'an?",
+    "options": ["Surah Al-Baqarah", "Surah Yaseen", "Surah Al-Fatiha", "Surah Ar-Rahman"],
+    "answer": "Surah Yaseen"
+  },
+  {
+    "question": "Who was the first Caliph of Islam?",
+    "options": ["Umar ibn Al-Khattab", "Ali ibn Abi Talib", "Abu Bakr As-Siddiq", "Uthman ibn Affan"],
+    "answer": "Abu Bakr As-Siddiq"
+  },
+  {
+    "question": "Which Prophet built the Kaaba with his son?",
+    "options": [
+      "Prophet Musa (AS)",
+      "Prophet Ibrahim (AS)",
+      "Prophet Nuh (AS)",
+      "Prophet Muhammad ﷺ"
+    ],
+    "answer": "Prophet Ibrahim (AS)"
+  },
+  {
+    "question": "What is the Islamic term for charity given voluntarily?",
+    "options": ["Zakat", "Sadaqah", "Fitrana", "Kaffarah"],
+    "answer": "Sadaqah"
+  },
+  {
+    "question": "Which prayer is performed at night after Isha?",
+    "options": ["Tahajjud", "Duha", "Istikhara", "Witr"],
+    "answer": "Tahajjud"
+  },
+  {
+    "question": "What was the first revelation to Prophet Muhammad ﷺ?",
+    "options": [
+      "Surah Al-Fatiha",
+      "Surah Al-Ikhlas",
+      "Surah Al-Alaq (Iqra)",
+      "Surah Al-Baqarah"
+    ],
+    "answer": "Surah Al-Alaq (Iqra)"
+  },
+  {
+    "question": "Which angel will blow the trumpet on the Day of Judgment?",
+    "options": ["Jibreel (AS)", "Mikail (AS)", "Israfeel (AS)", "Malik (AS)"],
+    "answer": "Israfeel (AS)"
+  },
+  {
+    "question": "What is the name of the well near the Kaaba?",
+    "options": ["Zamzam", "Kawthar", "Salsabeel", "Barakah"],
+    "answer": "Zamzam"
+  }
+]
