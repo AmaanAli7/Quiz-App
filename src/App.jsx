@@ -4,7 +4,7 @@ import Questions from './components/Questions'
 
 const App = () => {
   return (
-  <div className=' h-screen w-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex'>
+  <div className=' h-full w-full bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex'>
   
   <div className="h-screen flex ">
        
