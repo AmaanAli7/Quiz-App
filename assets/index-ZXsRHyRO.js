@@ -21,7 +21,7 @@ Error generating stack: `+u.message+`
                          bg-clip-text text-transparent`,children:F?"⏳ Time’s Up!":"🏆 Quiz Completed"}),q.jsx("p",{className:"text-xl text-emerald-300 mb-4",children:"Your Score"}),q.jsxs("div",{className:"text-4xl font-extrabold text-yellow-400 drop-shadow-[0_0_15px_gold]",children:[C," / ",Te.length]}),q.jsx("button",{onClick:()=>window.location.reload(),className:`mt-8 px-6 py-3 rounded-xl font-semibold\r
                        bg-gradient-to-r from-emerald-600 to-green-500\r
                        hover:scale-105 transition\r
-                       shadow-lg`,children:"Restart Quiz 🔄"}),q.jsx("p",{className:"mt-8 text-sm text-gray-400 italic",children:"✨ A Creation of GENIUS AMAAN ✨"})]})}):q.jsx("div",{className:"flex items-center justify-center p-6 w-full",children:q.jsxs("div",{className:`\r
+                       shadow-lg`,children:"Restart Quiz 🔄"}),q.jsx("p",{className:"mt-8 text-sm text-gray-400 italic",children:"✨ A Creation with EMAAN✨"})]})}):q.jsx("div",{className:"flex items-center justify-center p-6 w-full",children:q.jsxs("div",{className:`\r
   backdrop-blur-2xl \r
   bg-white/5 \r
   border border-yellow-400/20\r
@@ -47,4 +47,4 @@ Error generating stack: `+u.message+`
                         transition-all duration-500 hover:scale-[1.01]`,children:[q.jsx("div",{className:"md:w-1/4 flex justify-center items-center border-r border-yellow-400/10 mt-2 pr-4",children:q.jsx(eh,{})}),q.jsx("div",{className:"w-full max-w-3xl mx-auto",children:q.jsx(nh,{})})]}),q.jsxs("div",{className:"mt-14 text-center border-t border-yellow-500/20 pt-6",children:[q.jsx("h2",{className:`text-xl font-extrabold 
                          bg-gradient-to-r from-yellow-400 via-amber-300 to-yellow-500 
                          bg-clip-text text-transparent animate-pulse`,children:"✨ KNOWLEDGE IS LIGHT ✨"}),q.jsx("p",{className:"mt-2 text-emerald-300 tracking-widest",children:"Crafted With Imaan & Precision"}),q.jsx("p",{className:`mt-3 text-2xl font-black text-white 
-                        drop-shadow-[0_0_15px_gold]`,children:"👑 Powered by GENIUS AMAAN 👑"}),q.jsx("p",{className:"mt-1 text-sm text-gray-400 italic",children:"Where Code Meets Deen."})]})]})]})};uh.createRoot(document.getElementById("root")).render(q.jsx(St.StrictMode,{children:q.jsx(ih,{})}));
+                        drop-shadow-[0_0_15px_gold]`,children:"👑 Powered by AMAAN 👑"}),q.jsx("p",{className:"mt-1 text-sm text-gray-400 italic",children:"Where Code Meets Deen."})]})]})]})};uh.createRoot(document.getElementById("root")).render(q.jsx(St.StrictMode,{children:q.jsx(ih,{})}));
